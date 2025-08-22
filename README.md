@@ -1,7 +1,7 @@
 ## 👋 Hi there, I’m Leticia
 
 I’m a Biomedicine graduate with a passion for web development, data analysis, coding, and problem-solving.
-My background spans scientific research, customer-facing roles, and creative problem-solving — and now, I’m building my skills in Python to bring science and tech together.
+My background spans scientific research, customer-facing roles, and creative problem-solving — and now, I’m building my skills in Python and web development.
   
 ---
 
