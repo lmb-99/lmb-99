@@ -1,11 +1,12 @@
 ## 👋 Hi there, I’m Leticia
 
 I’m a Biomedicine graduate with a passion for web development, data analysis, coding, and problem-solving.
-My background spans scientific research, customer-facing roles, and creative problem-solving — and now, I’m building my skills in Python and web development.
+My background spans scientific research, customer-facing roles, and creative problem-solving — and now, I’m building my skills in Python, web development and data analysis.
   
 ---
 
 🚀 About Me
+
 🎓 B.Sc. in Biomedicine — blending life sciences with computational thinking.
 
 🧪 Experience in lab work, animal care, and scientific data collection.
@@ -17,7 +18,7 @@ My background spans scientific research, customer-facing roles, and creative pro
 🐣 Originally from Brazil.
 
 🛠 Tech Stack
-Languages & Tools <br>
+Languages & Tools I've worked with <br>
 <br>
 <img heitgh='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img heitgh='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
@@ -29,7 +30,7 @@ Languages & Tools <br>
 <img heitgh='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img heitgh='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />          
 <img heitgh='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-<img heitgh='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
+<img heitgh='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />       
 <img heitgh='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
 <img heitgh='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
@@ -38,13 +39,13 @@ Languages & Tools <br>
 - Web development
 - Data Analysis & Visualization
 - Bioinformatics
-- Machine Learning for Life Sciences
-- Devops (somewhere in the near future)
+- Machine Learning
 - Game dev (for fun)
 
 ## 📂 Featured Projects  
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
+| 🎬 **Hashflix** | A Netflix-like streaming platform. | Python, Django |
 | 📷 **Fakepinterest** | A modest version of Pinterest. | Python, Flask |
 | 🙇🏻‍♀️ **Study Community Blog** | A school blog where people can share their ideas. | Python, Flask |
 | 🕹 **Flappy the Bird** | My version of the popular game Flappy Bird. | Python, Pygame |
