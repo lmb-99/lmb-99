@@ -5,17 +5,17 @@ My background spans scientific research, customer-facing roles, and creative pro
   
 ---
 
-🚀 About Me
+🚀 About Me:
 
-🎓 B.Sc. in Biomedicine — blending life sciences with computational thinking.
+    🎓 B.Sc. in Biomedicine — blending life sciences with computational thinking.
 
-🧪 Experience in lab work, animal care, and scientific data collection.
+    🧪 Experience in lab work, animal care, and scientific data collection.
 
-💻 Currently studying Python for web development, focusing on Django and Flask.
+    💻 Currently studying Python for web development, focusing on Django and Flask.
 
-📍 Based somewhere in Germany. 
+    📍 Based somewhere in Germany. 
 
-🐣 Originally from Brazil.
+    🐣 Originally from Brazil.
 
 🛠 Tech Stack
 Languages & Tools I've worked with <br>
@@ -33,8 +33,9 @@ Languages & Tools I've worked with <br>
 <img heitgh='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />       
 <img heitgh='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
 <img heitgh='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
-💫 Fields of Interest
+<br>
+<br>
+💫 Fields of Interest:
 
 - Web development
 - Data Analysis & Visualization
