@@ -35,7 +35,7 @@ Languages & Tools I've worked with <br>
 <img heitgh='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
 <img heitgh='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img heitgh='50' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />          
-<br>
+
 <br>
 💫 Fields of Interest:
 
