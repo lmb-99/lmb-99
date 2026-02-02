@@ -11,7 +11,7 @@ My background spans scientific research, customer-facing roles, and creative pro
 
     🧪 Experience in lab work, animal care, and scientific data collection.
 
-    💻 Currently studying Python for web development, focusing on Django and Flask.
+    💻 Strong Python skills.
 
     📍 Based somewhere in Germany. 
 
